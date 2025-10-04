@@ -1,6 +1,6 @@
-# 📊 Aswin VM - Data Engineer Portfolio Dashboard
+# 📊 An interactive Shiny Portfolio Dashboard
 
-An interactive, scrollable Shiny dashboard built with **R**, **bs4Dash**, and **Plotly**, showcasing the professional portfolio of **Aswin VM** — a Data Engineer with experience in ETL pipelines, workflow automation, data warehousing, and business intelligence.
+An interactive, scrollable Shiny dashboard built with **R**, **bs4Dash**, and **Plotly**, showcasing the professional portfolio of **Aswin VM** - a Data Engineer with experience in ETL pipelines, workflow automation, data warehousing, and business intelligence.
 
 ---
 
